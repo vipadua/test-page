@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://sylhare.github.io"
+baseurl: "test-page"
+url: "https://gcartier94.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Mainframe Open Education                         # site's title
