@@ -17,6 +17,7 @@ Role of the Mainframe Today: Why is it so relevant today? Talk about hybrid clou
 3. Back end operations of many digital applications. 
 
 # 3 Mainframe Basic Architecture & Components
+
 ## a) Mainframe Key Components
 Mainframe In the past, the term Mainframe was synonymous with the hardware (S360/370/390 chips) and software (MVS, VM, VSE).  However, nowadays, term mainframe now has a more complex meaning.
  The term Mainframe must be divided into two meanings.  (1) the hardware (Z-Series chip) and (2) the operating systems supported by the Z-Series chip (Z/VM, Z/OS, Z/VSE, Linux).
@@ -29,15 +30,16 @@ Mainframe In the past, the term Mainframe was synonymous with the hardware (S360
 We would invite you to do an online tour inside the Mainframe Hardware.  In this Virtual tour you can reach the mainframe machine, open doors, remove switches and understand how Mainframe Hardware looks like today. Click on link http://m.kaon.com/c/ib, then choose the "Run Online/Web" Option, after we recommend to start from the "System/Server", IBM Z is the Mainframe. Then you just need to click on the latest machine type, which will be on the top of the list, once you join in the machine you might find "Explore Product Animation" where you can navigate thru all the machine details. 
 
 # 4 Mainframe brief History and Timeline
-Mainframe mission from the 50`s until 21st century and it`s future. Learn more about Mainframe history: https://www.computerhistory.org/revolution/mainframe-computers/7/166
+Mainframe mission from the 50's until 21st century and it's future. Learn more about Mainframe history: https://www.computerhistory.org/revolution/mainframe-computers/7/166
 
 # 5 Mainframe versus Servers 
 If you never hear about mainframe, a good starting point is to compare with the most common Servers for us as end users. The Comparison table to bridge the the existing knowledge with the Mainframe concepts and capacity: https://www.educba.com/mainframe-vs-server/
-6 How Mainframe is evolving thru the decades 
-As you saw in the brief history and timeline topic, Mainframe is around since 1950s, that`s why, if you had already heard about Mainframe it may sounds like something old. Others might never heard about Mainframe.
-Mainframe is a growth area, since it`s beginning with the contribution to the NASA studies, until today supporting most of our daily transactions
+
+# 6 How Mainframe is evolving thru the decades 
+As you saw in the brief history and timeline topic, Mainframe is around since 1950s, that's why, if you had already heard about Mainframe it may sounds like something old. Others might never heard about Mainframe.
+Mainframe is a growth area, since it's beginning with the contribution to the NASA studies, until today supporting most of our daily transactions
 
 # 7 References
-https://www.ibm.com/it-infrastructure/z/education/what-is-a-mainframe
-https://www.computerhistory.org/revolution/mainframe-computers/7/182
-https://m.kaon.com/c/ib
+- https://www.ibm.com/it-infrastructure/z/education/what-is-a-mainframe
+- https://www.computerhistory.org/revolution/mainframe-computers/7/182
+- https://m.kaon.com/c/ib
