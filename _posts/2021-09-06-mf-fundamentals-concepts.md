@@ -18,7 +18,7 @@ Since 2016 it was launched a new way of learn and earn credentials in the IT wor
 One good recommendation to start is the z/OS Mainframe Practitioner Badge. It was built by IBM.
 Badge Description: This badge earner has developed foundational skills in IBM Z hardware and software, especially around z/OS and System Administration. Through hands-on labs working on a live IBM Z server, the earner has gained real world experience and is equipped to pursue a career as a mainframe application developer, system programmer, system administrator, or a DBA Practitioner.
 Skills: Technical Specialist | Security | Telecommunications | Adaptability & Flexibility | Linux | Mainframe | Z Systems | IBM z
-To earn the Badge follow the instructions on [link] (https://www.ibm.com/training/badge/223baff0-38b6-4722-be90-016e7d5ea404)
+To earn the Badge follow the instructions on [link](https://www.ibm.com/training/badge/223baff0-38b6-4722-be90-016e7d5ea404)
 
 ## 3.1 What it takes to earn this badge
 Complete all courses in the z/OS Mainframe Practitioner Professional Certificate program on Coursera (including quizzes, hands-on assignments and projects), and earn the following badges:
@@ -31,8 +31,8 @@ Complete all courses in the z/OS Mainframe Practitioner Professional Certificate
  1 Glossary (Acronyms mainframe related) 
 
 # 5 How to contribute with this section?
-1 - Go to [link] (https://github.com/gcartier94/test-page)
+1 - Go to [link](https://github.com/gcartier94/test-page)
 2 - Select “Posts” folder
 3 - Find the section title you would like to update / or create a new file, for a new section
-4 - Add you content on the text fiel. Git Hub uses Markdown [Tips for markdown] (https://www.markdownguide.org/basic-syntax/) 
+4 - Add you content on the text fiel. Git Hub uses Markdown [Tips for markdown](https://www.markdownguide.org/basic-syntax/) 
 5 - Click in "Propose new file" and "Create a Pull Request"
