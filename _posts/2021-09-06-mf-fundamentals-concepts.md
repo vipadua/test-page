@@ -34,5 +34,5 @@ Complete all courses in the z/OS Mainframe Practitioner Professional Certificate
 1 - Go to [link] (https://github.com/gcartier94/test-page)
 2 - Select “Posts” folder
 3 - Find the section title you would like to update / or create a new file, for a new section
-4 - Add you content on the text fiel. Git Hub uses Markdown [Tips for markdown] (https://www.markdownguide.org/basic-syntax/) 
+4 - Add your content on the text fiel. Git Hub uses Markdown [Tips for markdown] (https://www.markdownguide.org/basic-syntax/) 
 5 - Click in "Propose new file" and "Create a Pull Request"
