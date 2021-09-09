@@ -28,14 +28,21 @@ Mainframe In the past, the term Mainframe was synonymous with the hardware (S360
  this software is what is traditionally referred to as VM, z/VM, MVS, MVS/XA, MVS/ESA, z/OS, VSE or z/VSE.  These operating systems have evolved and used over the last 50 years.  Mainframe software has evolved from a purely batch oriented system using only JCL to incorporating real time interfaces and Unix System Service.  Mainframe software has progressed to being compatible to distributed systems, the most notable innovating being ZOWE.
  
 ## b) Virtual Tour on a Mainframe
-We would invite you to do an online tour inside the Mainframe Hardware.  In this Virtual tour you can reach the mainframe machine, open doors, remove switches and understand how Mainframe Hardware looks like today. [Click on link] (http://m.kaon.com/c/ib), then choose the "Run Online/Web" Option, after we recommend to start from the "System/Server", IBM Z is the Mainframe. Then you just need to click on the latest machine type, which will be on the top of the list, once you join in the machine you might find "Explore Product Animation" where you can navigate thru all the machine details. 
+We would invite you to do an online tour inside the Mainframe Hardware.  In this Virtual tour you can reach the mainframe machine, open doors, remove switches and understand how Mainframe Hardware looks like today. [Click on link](http://m.kaon.com/c/ib), then choose the "Run Online/Web" Option, after we recommend to start from the "System/Server", IBM Z is the Mainframe. Then you just need to click on the latest machine type, which will be on the top of the list, once you join in the machine you might find "Explore Product Animation" where you can navigate thru all the machine details. 
 
 # 4 Mainframe brief History and Timeline
-Mainframe mission from the 50's until 21st century and it's future. [Learn more about Mainframe history] (https://www.computerhistory.org/revolution/mainframe-computers/7/166)
+Mainframe mission from the 50's until 21st century and it's future. [Learn more about Mainframe history](https://www.computerhistory.org/revolution/mainframe-computers/7/166)
 
 # 5 Mainframe versus Servers 
-If you never hear about mainframe, a good starting point is to compare with the most common Servers for us as end users. The Comparison table to bridge the the existing knowledge with the Mainframe concepts and capacity can be found [here] (https://www.educba.com/mainframe-vs-server/)
+If you never hear about mainframe, a good starting point is to compare with the most common Servers for us as end users. The Comparison table to bridge the the existing knowledge with the Mainframe concepts and capacity can be found [here](https://www.educba.com/mainframe-vs-server/)
 
 # 6 How Mainframe is evolving thru the decades 
 As you saw in the brief history and timeline topic, Mainframe is around since 1950s, that's why, if you had already heard about Mainframe it may sounds like something old. Others might never heard about Mainframe.
 Mainframe is a growth area, since it's beginning with the contribution to the NASA studies, until today supporting most of our daily transactions
+
+# 7 How to contribute with this section?
+1 - Go to [link] (https://github.com/gcartier94/test-page)
+2 - Select “Posts” folder
+3 - Find the section title you would like to update / or create a new file, for a new section
+4 - Add your content on the text fiel. Git Hub uses Markdown [Tips for markdown] (https://www.markdownguide.org/basic-syntax/) 
+5 - Click in "Propose new file" and "Create a Pull Request"
