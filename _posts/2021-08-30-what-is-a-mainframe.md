@@ -39,3 +39,10 @@ If you never hear about mainframe, a good starting point is to compare with the 
 # 6 How Mainframe is evolving thru the decades 
 As you saw in the brief history and timeline topic, Mainframe is around since 1950s, that's why, if you had already heard about Mainframe it may sounds like something old. Others might never heard about Mainframe.
 Mainframe is a growth area, since it's beginning with the contribution to the NASA studies, until today supporting most of our daily transactions
+
+# 7 How to contribute with this section?
+1 - Go to [link] (https://github.com/gcartier94/test-page)
+2 - Select “Posts” folder
+3 - Find the section title you would like to update / or create a new file, for a new section
+4 - Add your content on the text fiel. Git Hub uses Markdown [Tips for markdown] (https://www.markdownguide.org/basic-syntax/) 
+5 - Click in "Propose new file" and "Create a Pull Request"
