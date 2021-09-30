@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career Path Opportunitie
+title: Career Path Opportunities
 tags: [Career, Mainframe, opportunities, hiring]
 
 ---
